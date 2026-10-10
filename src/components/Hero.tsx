@@ -203,7 +203,6 @@ export default function Hero({
 
           <img
             src={profile.portrait.src}
-            srcSet={profile.portrait.srcSet}
             sizes="(max-width: 1024px) 100vw, 54vw"
             alt={profile.portrait.alt}
             className="absolute bottom-0 left-1/2 h-full w-auto max-w-none -translate-x-1/2 object-contain object-bottom drop-shadow-[0_30px_60px_rgba(0,0,0,0.6)] [mask-image:linear-gradient(to_bottom,black_62%,transparent_97%)]"

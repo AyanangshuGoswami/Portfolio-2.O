@@ -29,7 +29,6 @@ import Hero from './components/Hero';
 import ContinueWatching from './components/ContinueWatching';
 import Scene from './components/Scene';
 import About from './components/About';
-import Seasons from './components/Seasons';
 import Originals from './components/Originals';
 import TopPicks from './components/TopPicks';
 import Skills from './components/Skills';

@@ -102,7 +102,6 @@ export default function PlayIntro({ onClose }: { onClose: () => void }) {
       >
         <img
           src={profile.portrait.src}
-          srcSet={profile.portrait.srcSet}
           sizes="100vw"
           alt=""
           className="h-[88vh] w-auto max-w-none object-contain [mask-image:linear-gradient(to_bottom,black_60%,transparent)]"
